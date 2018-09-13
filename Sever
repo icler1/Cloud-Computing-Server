@@ -1,0 +1,36 @@
+Cloud Computing
+Cloud Computing Fundamentals & Platforms
+Student: Icler de Oliveira.
+Project Title: Physical Server Hardware Research
+Find a price for new blade server
+Customized for €3,399 Dell "Power Edge" R430 Server 10SFF Basic SAS (Aventis systems)
+Also, the customer can visit different websites and purchase item by item paying € 3,022.91 without the rack. For the 5 blades the client would pay € 15,114.55 + Rack 115.99 = 15,230.54
+Intel Xeon Processor(s)
+Intel® Xeon® E5–2650L v4 1.7GHz,35M Cache,9.6GT/s QPI,Turbo,HT,14C/28T (65W) Max Mem 2400MHz [€ 593.13] (Intel)
+32 GB RAM
+32GB RDIMM, 2400MT/s, Dual Rank, x4 Data Width [$572.71] (Intel)
+4 x 2TB SATA hard disks
+4 x 2 24/7-HDD € 54.99 x 12(contabo)
+RAID 5
+RAID 5 for H330/H730/H730P (3–24 HDDs or SSDs) [+/- 300 ] RAID 5 is included buying an Intel server. http://www.intel.co.uk/content/www/uk/en/server-systems/intel-server-systems.html
+Windows Server 2012 Standard
+Windows Server® 2012R2, Standard Ed,Factory Inst,No MED,2SKT,2VM,NO CAL [691,34](Intel)
+UPS - 15000 VA (backup)
+Ebayer € 410.99
+APC Smart-UPS C 900 Watts /1500 VA LCD 230V
+€410.99(ebayer)
+31.99 €
+Load Balancer
+"intinstock" €213.75
+Packeteer PacketShaper 6500 PS6500 Network Performance Load Balancer Appliance
+ €213.75
+Rack to hold all 5 blade servers
+ebay € 115,99
+Then multiply the total by 5 so that you know the cost for an entire rack of them.
+€15,230.54
+References:
+http://www.aventissystems.com/Server-Dell-PowerEdge-p/108185.htm (Accessed 17/02/2017)
+https://contabo.com/?show=home (Accessed 17/02/2017)
+http://www.ebay.com/itm/18U-Wall-Mount-Network-Server-Data-Cabinet-Enclosure-Rack-Glass-Door-Lock-w-Fan-/152069710589 (Accessed 17/02/2017)
+http://www.itinstock.com/index.asp?function=search (Accessed 17/02/2017)
+http://www.intel.com/content/www/us/en/homepage.html (Accessed 17/02/2017)
